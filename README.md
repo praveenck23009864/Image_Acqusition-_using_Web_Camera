@@ -34,8 +34,8 @@ End the program and close the output video window by pressing 'q'.
 
 ## Program:
 ``` Python
-### Developed By: Deepika S
-### Register No: 212222230028
+### Developed By: praveen ck
+### Register No: 212222243003
 ```
 
 ## i) Write the frame as JPG file
@@ -106,22 +106,23 @@ cv2.destroyAllWindows()
 ```
 ## Output
 ### i) Write the frame as JPG image
-![deepika0102](https://github.com/deepikasrinivasans/Image_Acqusition-_using_Web_Camera/assets/119393935/e7b6070f-3da4-4c08-b819-e6eea0201954)
+![IMG-20240314-WA0042](https://github.com/praveenck23009864/Image_Acqusition-_using_Web_Camera/assets/141472050/38833da3-5edb-47f3-a231-6e408df79e96)
+
 </br>
 </br>
 
 ### ii) Display the video
-![deepika0202](https://github.com/deepikasrinivasans/Image_Acqusition-_using_Web_Camera/assets/119393935/eb0df4d8-8b79-4b01-9e92-d9a823b8bcde)
+![IMG-20240314-WA0041](https://github.com/praveenck23009864/Image_Acqusition-_using_Web_Camera/assets/141472050/135b8193-6562-4a20-9f29-42f586484d58)
 </br>
 </br>
 
 ### iii) Display the video by resizing the window
-![deepika0302](https://github.com/deepikasrinivasans/Image_Acqusition-_using_Web_Camera/assets/119393935/cffb6536-fa7a-4469-88e0-77e4e0419fbe)
+![IMG-20240314-WA0043](https://github.com/praveenck23009864/Image_Acqusition-_using_Web_Camera/assets/141472050/375e9a64-bd88-4c60-8891-6ccc9056f17a)
 </br>
 </br>
 
 ### iv) Rotate and display the video
-![deepika0402](https://github.com/deepikasrinivasans/Image_Acqusition-_using_Web_Camera/assets/119393935/fd37222a-fd55-4ceb-be28-f5e5017188a3)
+![IMG-20240314-WA0044](https://github.com/praveenck23009864/Image_Acqusition-_using_Web_Camera/assets/141472050/8e810b26-915e-424c-a3a9-2d241f5678ce)
 </br>
 </br>
 
